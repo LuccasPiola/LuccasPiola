@@ -9,7 +9,7 @@
 - ⚡ Fato interessante: Eu adoro uma comida japonesa!
 
 ### O que eu tô ouvindo 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://api.spotify.com/v1/users/lsrafg9acmpnnd1yj0mlvf3pr)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/lsrafg9acmpnnd1yj0mlvf3pr)
 
 ### Connect with me:
 
