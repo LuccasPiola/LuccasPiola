@@ -8,9 +8,6 @@
 - 🥅 Metas de 2020: Me tornar um desenvolvedor Pleno, com conhecimentos aprofundados em JavaScript e ReactJS!
 - ⚡ Fato interessante: Eu adoro uma comida japonesa!
 
-### O que eu tô ouvindo 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/lsrafg9acmpnnd1yj0mlvf3pr)
-
 ### Vamos nos conectar?
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][website]
