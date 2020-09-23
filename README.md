@@ -2,7 +2,7 @@
 
 ## Eu sou desenvolvedor web, focado no front-end, mas também sou músico!
 
-- 🔭 Atualmente estou trabalhando na [Webmotors][website]!
+- 🔭 Atualmente estou trabalhando na [Sciensa][website]!
 - 🌱 Eu sou uma pessoa que adora a zoeira 🤣
 - 👯 Eu amo estudar e estar sempre por dentro das novidades da programação
 - 🥅 Metas de 2020: Me tornar um desenvolvedor Pleno, com conhecimentos aprofundados em JavaScript e ReactJS!
@@ -47,6 +47,6 @@
 
 </details>
 
-[website]: https://www.webmotors.com.br/
+[website]: https://sciensa.com/
 [instagram]: https://www.instagram.com/luccaspiola
 [linkedin]: https://www.linkedin.com/in/luccas-piola-73a645152/
