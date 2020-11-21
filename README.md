@@ -2,7 +2,7 @@
 
 ## Eu sou desenvolvedor web, focado no front-end, mas também sou músico!
 
-- 🔭 Atualmente estou trabalhando na [Sciensa][website] como desenvolvedor frontend! (O famoso pintor de telinhas)
+- 🔭 Atualmente estou trabalhando na [Sciensa][website] como desenvolvedor front-end! (O famoso pintor de telinhas)
 - 🌱 Eu sou uma pessoa que adora a zoeira 🤣
 - 👯 Eu amo estudar e estar sempre por dentro das novidades da programação
 - 📒 Eu sou formado como Engenheiro da Computação na UTFPR!
