@@ -2,11 +2,11 @@
 
 ## Eu sou desenvolvedor web, focado no front-end, mas também sou músico!
 
-- 🔭 Atualmente estou trabalhando na [Sciensa][website] como desenvolvedor front-end! (O famoso pintor de telinhas)
-- 🌱 Eu sou uma pessoa que adora a zoeira 🤣
-- 👯 Eu amo estudar e estar sempre por dentro das novidades da programação
-- 📒 Eu sou formado como Engenheiro da Computação na UTFPR!
-- 🥅 Metas de 2020: Me tornar um desenvolvedor Pleno, com conhecimentos aprofundados em JavaScript e ReactJS!
+- 🔭  Atualmente estou trabalhando na [Sciensa][website] como desenvolvedor front-end! (O famoso pintor de telinhas)
+- 🌱  Eu sou uma pessoa que adora a zoeira 🤣
+- 👯  Eu amo estudar e estar sempre por dentro das novidades da programação
+- 📒  Eu sou formado como Engenheiro da Computação na UTFPR!
+- 🥅  Metas de 2020: Me tornar um desenvolvedor Pleno, com conhecimentos aprofundados em JavaScript e ReactJS!
 - ⚡ Fato interessante: Eu adoro uma comida japonesa!
 
 ### Vamos nos conectar?
