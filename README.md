@@ -2,11 +2,12 @@
 
 ## Eu sou desenvolvedor web, focado no front-end, mas também sou músico!
 
-- 🔭  &nbsp; Atualmente estou trabalhando na [Sciensa][website] como desenvolvedor front-end! (O famoso pintor de telinhas)
+- 🔭  &nbsp; Atualmente estou trabalhando na [Runtalent][website] como desenvolvedor front-end! (O famoso pintor de telinhas)
 - 🌱  &nbsp; Eu sou uma pessoa que adora a zoeira 🤣
 - 👯  &nbsp; Eu amo estudar e estar sempre por dentro das novidades da programação
 - 📒  &nbsp; Eu sou formado como Engenheiro da Computação na UTFPR!
-- 🥅  &nbsp; Metas de 2020: Me tornar um desenvolvedor Pleno, com conhecimentos aprofundados em JavaScript e ReactJS!
+- 🥅  &nbsp; Metas de 2021: Cada vez mais, me tornar um programador qualificado e preparado pro mercado!
+- 💻. &nbsp; Linguagens e frameworks que estou interessado: VueJS, ReactJS, Swift e Kotlin.
 - ⚡ &nbsp; Fato interessante: Eu adoro uma comida japonesa!
 
 ### Vamos nos conectar?
@@ -45,6 +46,6 @@
 
 </details>
 
-[website]: https://sciensa.com/
+[website]: https://runtalent.it/
 [instagram]: https://www.instagram.com/luccaspiola
 [linkedin]: https://www.linkedin.com/in/luccas-piola-73a645152/
