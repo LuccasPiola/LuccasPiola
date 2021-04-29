@@ -1,24 +1,24 @@
 ### Olá, eu sou o Luccas, mas pode me chamar de Piola 👋
 
-## Eu sou desenvolvedor web, focado no front-end, mas também sou músico!
+## Eu sou engenheiro de software, focado em arquitetura no Front-End.
 
-- 🔭  &nbsp; Atualmente estou trabalhando na [PagSeguro][website] como Engenheiro de Software!
+- 🔭  &nbsp; Atualmente estou trabalhando na [PagSeguro][website]!
 - 🌱  &nbsp; Eu sou uma pessoa que adora a zoeira 🤣
 - 👯  &nbsp; Eu amo estudar e estar sempre por dentro das novidades da programação.
 - 📒  &nbsp; Eu sou formado como Engenheiro da Computação na UTFPR!
-- 🥅  &nbsp; Metas de 2021: Cada vez mais, me tornar um programador qualificado e preparado pro mercado!
-- 💻. &nbsp; Linguagens e frameworks que estou interessado: VueJS, ReactJS, Swift e Kotlin.
-- ⚡ &nbsp; Fato interessante: Eu adoro uma comida japonesa!
+- 🥅  &nbsp; Metas de 2021: Me tornar um especialista em arquitetura de software e TDD.
+- 💻. &nbsp; Linguagens e frameworks que estou interessado: Javascript & Typescript e Swift.
+- ⚡ &nbsp; Frameworks que tenho mais experiência: React e Vue
 
 ### Vamos nos conectar?
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
-### Linguagens e ferramentas que utilizo!
+### Ferramentas do meu dia a dia
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -47,5 +47,6 @@
 </details>
 
 [website]: https://pagseguro.uol.com.br/#rmcl
+[facebook]: https://www.facebook.com/lhc.piola
 [instagram]: https://www.instagram.com/luccaspiola
 [linkedin]: https://www.linkedin.com/in/luccas-piola-73a645152/
