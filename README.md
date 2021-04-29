@@ -2,13 +2,13 @@
 
 ## Eu sou engenheiro de software, focado em arquitetura no Front-End.
 
-🔭  &nbsp; Atualmente estou trabalhando na [PagSeguro][website]!
-🌱  &nbsp; Eu sou uma pessoa que adora a zoeira 🤣
-👯  &nbsp; Eu amo estudar e estar sempre por dentro das novidades da programação.
-📒  &nbsp; Eu sou formado como Engenheiro da Computação na UTFPR!
-🥅  &nbsp; Metas de 2021: Me tornar um especialista em arquitetura de software e TDD.
-💻. &nbsp; Linguagens e frameworks que estou interessado: Javascript & Typescript e Swift.
-⚡ &nbsp; Frameworks que tenho mais experiência: React e Vue
+🔭  &nbsp; Atualmente estou trabalhando na [PagSeguro][website]! <br />
+🌱  &nbsp; Eu sou uma pessoa que adora a zoeira 🤣 <br />
+👯  &nbsp; Eu amo estudar e estar sempre por dentro das novidades da programação. <br />
+📒  &nbsp; Eu sou formado como Engenheiro da Computação na UTFPR! <br />
+🥅  &nbsp; Metas de 2021: Me tornar um especialista em arquitetura de software e TDD. <br />
+💻. &nbsp; Linguagens e frameworks que estou interessado: Javascript & Typescript e Swift. <br />
+⚡ &nbsp; Frameworks que tenho mais experiência: React e Vue <br />
 
 ### Vamos nos conectar?
 
