@@ -11,7 +11,7 @@
 
 ### Vamos nos conectar?
 
-<a href="https://www.facebook.com/lhc.piola" target="_blank"><img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/facebook-512.png" /></a>
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/facebook-512.png" />][facebook]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/linkedin_logo_icon_147268.png" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://shoppingomar.com.br/wp-content/uploads/2018/12/instagram-colourful-icon.png" />][instagram]
 
