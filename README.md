@@ -29,18 +29,6 @@
 <img align="left" alt="Vue" width="26px" src="https://br.vuejs.org//images/logo.png" />
 <img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
 
-<br />
-<br />
-
----
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=LuccasPiola&show_icons=true&hide_border=true" />
-
-</details>
-
 [website]: https://pagseguro.uol.com.br/#rmcl
 [facebook]: https://www.facebook.com/lhc.piola
 [instagram]: https://www.instagram.com/opiolinha/
