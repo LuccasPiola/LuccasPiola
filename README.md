@@ -5,8 +5,8 @@
 🔭  &nbsp; Atualmente estou trabalhando na [PagSeguro][website]! <br />
 👯  &nbsp; Eu amo estudar e estar sempre por dentro das novidades da programação. <br />
 📒  &nbsp; Eu sou formado como Engenheiro da Computação na UTFPR! <br />
-🥅  &nbsp; Metas de 2021: Me tornar um especialista em arquitetura de software e TDD. <br />
-💻. &nbsp; Linguagens e frameworks que estou interessado: Javascript & Typescript e Swift. <br />
+🥅  &nbsp; Metas de 2022: Me tornar um especialista em arquitetura de software e TDD. <br />
+💻. &nbsp; Linguagens que estou interessado: Javascript & Typescript <br />
 ⚡ &nbsp; Frameworks que tenho mais experiência: React e Vue <br />
 
 ### Vamos nos conectar?
