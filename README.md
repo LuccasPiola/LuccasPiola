@@ -2,10 +2,10 @@
 
 ## Eu sou engenheiro de software, focado em arquitetura no Front-End.
 
-🔭  &nbsp; Atualmente estou trabalhando na [PagSeguro][website]! <br />
+🔭  &nbsp; Atualmente estou trabalhando na [Toric][website]! <br />
 👯  &nbsp; Eu amo estudar e estar sempre por dentro das novidades da programação. <br />
 📒  &nbsp; Eu sou formado como Engenheiro da Computação na UTFPR! <br />
-🥅  &nbsp; Metas de 2022: Me tornar um especialista em arquitetura de software e TDD. <br />
+🥅  &nbsp; Metas de 2023: Me tornar um especialista em arquitetura de software e TDD. <br />
 💻. &nbsp; Linguagens que estou interessado: Javascript & Typescript <br />
 ⚡ &nbsp; Frameworks que tenho mais experiência: React e Vue <br />
 
@@ -27,7 +27,7 @@
 <img align="left" alt="Vue" width="26px" src="https://br.vuejs.org//images/logo.png" />
 <img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
 
-[website]: https://pagseguro.uol.com.br/#rmcl
+[website]: https://www.toric.com/
 [facebook]: https://www.facebook.com/lhc.piola
 [instagram]: https://www.instagram.com/opiolinha/
 [linkedin]: https://www.linkedin.com/in/luccas-piola-73a645152/
