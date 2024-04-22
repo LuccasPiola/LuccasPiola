@@ -5,7 +5,7 @@
 🔭  &nbsp; Atualmente estou trabalhando na [Housecall PRO][website]! <br />
 👯  &nbsp; Eu amo estudar e estar sempre por dentro das novidades da programação. <br />
 📒  &nbsp; Eu sou formado como Engenheiro da Computação na UTFPR! <br />
-🥅  &nbsp; Metas de 2023: Me tornar um especialista em arquitetura de software e TDD. <br />
+🥅  &nbsp; Metas de 2024: Me tornar um especialista em arquitetura de software e TDD. <br />
 💻. &nbsp; Linguagens que estou interessado: Javascript & Typescript <br />
 ⚡ &nbsp; Frameworks que tenho mais experiência: React e Vue <br />
 
